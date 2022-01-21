@@ -16,7 +16,7 @@ html, body {
 body {
     font-family: "Nunito", sans-serif;
     text-align: center;
-    background: rgba(182, 214, 250, 0.9);        changed from white
+    background: rgba(182, 214, 250, 0.9);        
 }
 
 header {
@@ -29,7 +29,7 @@ header {
 }
 
 header h1 {
-    font-size: 2em;                     changed made bigger from 1.25em to 2
+    font-size: 2em;                    
     color: rgba(50, 50, 50, 0.9);
     margin-top: 35px;
 }
@@ -138,7 +138,7 @@ header h1 {
     min-height: 415px;
     margin: 10px auto auto;
     padding-bottom: 15px;
-    background: rgba(198, 224, 253, 0.9); changed from white
+    background: rgba(198, 224, 253, 0.9); 
     border-radius: 0.25em;
     border: 1px solid rgba(100, 100, 100, 0.3);
     transition: .4s ease-out;
@@ -166,7 +166,7 @@ header h1 {
 }
 
 .modal-text {
-    color: rgba(0, 0, 0, 0.7);          changed to black
+    color: rgba(0, 0, 0, 0.7);         
     margin: 10px;
 }
 
@@ -246,7 +246,7 @@ header h1 {
     .card:hover {
         background: rgba(255, 255, 255, 1);
         border: 1px solid rgba(50, 50, 50, 0.9);
-        box-shadow: 5px 5px;                                added box shadow on cards
+        box-shadow: 5px 5px;                                
     }
 
     .card:hover .card-text {
