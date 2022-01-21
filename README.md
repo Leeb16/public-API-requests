@@ -1,6 +1,7 @@
-# public-API-requests
- Module 5 Project
+## public-API-requests
+#Module 5 Project
 
+Personal style changes to the project include:
 
 Changed the body background colour.
 Made the h1 header a larger font size.
